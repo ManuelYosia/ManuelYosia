@@ -24,5 +24,6 @@ Improving frontend structure and UI design
 Better development workflows using Git
 
 📫 Let's Connect
+
 LinkedIn: (add your link)
 Portfolio: (add your link later)
