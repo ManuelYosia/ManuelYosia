@@ -10,19 +10,14 @@ I'm especially interested in exploring how AI can be integrated into modern appl
 
 ## 🛠 Tech Stack
 - Frontend: HTML, CSS, JavaScript
-- Backend: MySQL (+ PHP if you use it)
+- Backend: MySQL, PHP
 - Tools: Git, GitHub, Notion, Canva
 
-## 📌 Experience Highlights
-- Project Manager — Led development of a web-based educational game (Unity, research project)
-- Team Lead (Hackathon) — Analyzed and presented business solutions using BMC
-- Project Manager (Google Solution Challenge) — Coordinated SDG-based solution development
-
 ## 📈 Currently Exploring
-- AI integration in web applications
+- AI Agent to boost software development
 - Improving frontend structure and UI design
 - Better development workflows using Git
 
 ## 📫 Let's Connect
-- LinkedIn: (add your link)
-- Portfolio: (add your link later)
+- LinkedIn: -
+- Portfolio: -
